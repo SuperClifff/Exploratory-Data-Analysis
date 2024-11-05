@@ -45,4 +45,10 @@
 
 - Identify any patterns among tracks with the same key or mode (Major vs. Minor).
 - Examine if specific genres or artists frequently appear in more playlists or charts.
-Project Structure
+
+## Acknowledgements
+- Dataset provided by Kaggle - Most Streamed Spotify 2023
+
+
+### Rosario Clifford James 
+### 2ECE-C
